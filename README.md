@@ -24,7 +24,7 @@
   <a href="[https://www.linkedin.com/in/sarah-hart-landolt/](https://www.linkedin.com/in/dörthe-kosicki/)" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>  
-  <a href="https://codestun.github.io/portfolio-website/" target="_blank">
+  <a href="https://codestun.github.io/DK-portfolio/" target="_blank">
     <img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white' />
   </a>
 </div>
